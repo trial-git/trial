@@ -4,6 +4,5 @@ My second file created.
 A
 B
 C
-D
-E
+
 ok mam
